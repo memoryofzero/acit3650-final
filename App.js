@@ -8,10 +8,7 @@ import Map from './view/Map';
 
 const RootStack = createStackNavigator(
   {
-    Home: {
-      screen: Home,
-    },
-    Map: {
+    NotUber: {
       screen: Map,
     },
   },
